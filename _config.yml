@@ -1,2 +1,3 @@
 name: Ninad Oak, Bioinformatician
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
