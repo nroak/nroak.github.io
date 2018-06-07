@@ -2,7 +2,6 @@
 layout: single
 permalink: /publications/
 author_profile: true
-font-size: 14px
 title: "Publications"
 
 toc: true

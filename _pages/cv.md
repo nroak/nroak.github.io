@@ -1,27 +1,22 @@
 ---
 layout: single
-permalink: /
-author_profile: true
+permalink: /cv/
 
-title: "Ninad Oak"
-excerpt: "Genetics, Sketchnotes, and more..."
-
-header:
-  overlay_image: /assets/images/genomic_data_stock.jpg
-  overlay_filter: 0.1
-  overlay_color: "white"
-
-layouts_gallery:
-  - url: /assets/images/bog_admire.jpg
-    image_path: /assets/images/bog_admire.jpg
-    alt: "bog_admire"
-
+title: "CV"
+sidebar:
+  - title: "Ninad Oak"
+    image: /assets/images/Profile2-small.jpg
+    text: "Bioinformatician<br />PhD Student, Baylor College of Medicine<br />MS, University of Pune"
+  
 toc: true
 ---
 
-I'm a Genetics PhD student at Baylor College of Medicine pursuing the discovery of genetic alterations that impact human traits and diseases. More specifically, I have developed [bioinformatic approaches](https://github.com/nroak/ADmiRE) to understand impact of microRNA single nucleotide variation in human population and disease datasets.
 
-{% include gallery id="layouts_gallery" caption="Picture summary of microRNA work presented at Biology of Genomes, 2018." %}
+Ninad Oak
+============
+
+
+
 
 ## Research Interests
 
