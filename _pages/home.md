@@ -12,8 +12,8 @@ header:
   overlay_color: "white"
 
 layouts_gallery:
-  - url: /assets/images/bog_admire.jpg
-    image_path: /assets/images/bog_admire.jpg
+  - url: /assets/images/bog_admire.JPG
+    image_path: /assets/images/bog_admire.JPG
     alt: "bog_admire"
 
 toc: true
