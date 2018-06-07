@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+#theme                    : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -130,6 +130,11 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
+# Skethnotes
+collections:
+  sketchnotes:
+    output: true
+    permalink: /:collection/:path/
 
 # Reading Files
 include:
@@ -268,3 +273,12 @@ defaults:
       comments: # true
       share: true
       related: true
+defaults:
+   # _sketchnotes
+    - scope:
+        path: ""
+        type: sketchnotes
+      values:
+        layout: single
+        author_profile: false
+      share: true

@@ -15,15 +15,14 @@ toc: true
 Ninad Oak
 ============
 
-
-
-
 ## Research Interests
 
 - Genetics of childhood cancers and rare diseases.
 - Understanding the role of non-coding RNA (microRNA) sequence variation in human population and diseases.
 - Bioinformatic approaches to understand the link between genetic alterations and human diseases.
 
+
+{% include video id="273821151" provider="vimeo" %}
 
 ---
 

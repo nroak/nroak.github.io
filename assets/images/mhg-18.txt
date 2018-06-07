@@ -1,0 +1,24 @@
+  - url: /assets/images/mhg-18/Chao-ting Wu.png
+    image_path: /assets/images/mhg-18/Chao-ting Wu.png
+    alt: "Chao-ting Wu.png"
+    title: "Chao-ting Wu.png"
+  - url: /assets/images/mhg-18/John Fryer.png
+    image_path: /assets/images/mhg-18/John Fryer.png
+    alt: "John Fryer.png"
+    title: "John Fryer.png"
+  - url: /assets/images/mhg-18/Mitch McVey.png
+    image_path: /assets/images/mhg-18/Mitch McVey.png
+    alt: "Mitch McVey.png"
+    title: "Mitch McVey.png"
+  - url: /assets/images/mhg-18/Paul Northcott.png
+    image_path: /assets/images/mhg-18/Paul Northcott.png
+    alt: "Paul Northcott.png"
+    title: "Paul Northcott.png"
+  - url: /assets/images/mhg-18/Scott Pletcher.png
+    image_path: /assets/images/mhg-18/Scott Pletcher.png
+    alt: "Scott Pletcher.png"
+    title: "Scott Pletcher.png"
+  - url: /assets/images/mhg-18/Weizhe Hong.png
+    image_path: /assets/images/mhg-18/Weizhe Hong.png
+    alt: "Weizhe Hong.png"
+    title: "Weizhe Hong.png"

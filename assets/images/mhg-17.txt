@@ -1,0 +1,80 @@
+  - url: /assets/images/mhg-17/Albert La Spada.png
+    image_path: /assets/images/mhg-17/Albert La Spada.png
+    alt: "Albert La Spada.png"
+    title: "Albert La Spada.png"
+  - url: /assets/images/mhg-17/Allan Spradling.png
+    image_path: /assets/images/mhg-17/Allan Spradling.png
+    alt: "Allan Spradling.png"
+    title: "Allan Spradling.png"
+  - url: /assets/images/mhg-17/Atul Chopra.png
+    image_path: /assets/images/mhg-17/Atul Chopra.png
+    alt: "Atul Chopra.png"
+    title: "Atul Chopra.png"
+  - url: /assets/images/mhg-17/Charles Lin.png
+    image_path: /assets/images/mhg-17/Charles Lin.png
+    alt: "Charles Lin.png"
+    title: "Charles Lin.png"
+  - url: /assets/images/mhg-17/David Lombard.png
+    image_path: /assets/images/mhg-17/David Lombard.png
+    alt: "David Lombard.png"
+    title: "David Lombard.png"
+  - url: /assets/images/mhg-17/Elena Grigorenko.png
+    image_path: /assets/images/mhg-17/Elena Grigorenko.png
+    alt: "Elena Grigorenko.png"
+    title: "Elena Grigorenko.png"
+  - url: /assets/images/mhg-17/Ido Golding.png
+    image_path: /assets/images/mhg-17/Ido Golding.png
+    alt: "Ido Golding.png"
+    title: "Ido Golding.png"
+  - url: /assets/images/mhg-17/Lawrence Zipursky.png
+    image_path: /assets/images/mhg-17/Lawrence Zipursky.png
+    alt: "Lawrence Zipursky.png"
+    title: "Lawrence Zipursky.png"
+  - url: /assets/images/mhg-17/Max Heiman.png
+    image_path: /assets/images/mhg-17/Max Heiman.png
+    alt: "Max Heiman.png"
+    title: "Max Heiman.png"
+  - url: /assets/images/mhg-17/Nick Navin.png
+    image_path: /assets/images/mhg-17/Nick Navin.png
+    alt: "Nick Navin.png"
+    title: "Nick Navin.png"
+  - url: /assets/images/mhg-17/Ondine Cleaver.png
+    image_path: /assets/images/mhg-17/Ondine Cleaver.png
+    alt: "Ondine Cleaver.png"
+    title: "Ondine Cleaver.png"
+  - url: /assets/images/mhg-17/Richard Fishel.png
+    image_path: /assets/images/mhg-17/Richard Fishel.png
+    alt: "Richard Fishel.png"
+    title: "Richard Fishel.png"
+  - url: /assets/images/mhg-17/Salil Lachke.png
+    image_path: /assets/images/mhg-17/Salil Lachke.png
+    alt: "Salil Lachke.png"
+    title: "Salil Lachke.png"
+  - url: /assets/images/mhg-17/Steve Kowalczykowaski.png
+    image_path: /assets/images/mhg-17/Steve Kowalczykowaski.png
+    alt: "Steve Kowalczykowaski.png"
+    title: "Steve Kowalczykowaski.png"
+  - url: /assets/images/mhg-17/Teresa Bowman.png
+    image_path: /assets/images/mhg-17/Teresa Bowman.png
+    alt: "Teresa Bowman.png"
+    title: "Teresa Bowman.png"
+  - url: /assets/images/mhg-17/Tiffany Cook.png
+    image_path: /assets/images/mhg-17/Tiffany Cook.png
+    alt: "Tiffany Cook.png"
+    title: "Tiffany Cook.png"
+  - url: /assets/images/mhg-17/Tim Stearns.png
+    image_path: /assets/images/mhg-17/Tim Stearns.png
+    alt: "Tim Stearns.png"
+    title: "Tim Stearns.png"
+  - url: /assets/images/mhg-17/Todd Druley.png
+    image_path: /assets/images/mhg-17/Todd Druley.png
+    alt: "Todd Druley.png"
+    title: "Todd Druley.png"
+  - url: /assets/images/mhg-17/Yoon-Jae Cho.png
+    image_path: /assets/images/mhg-17/Yoon-Jae Cho.png
+    alt: "Yoon-Jae Cho.png"
+    title: "Yoon-Jae Cho.png"
+  - url: /assets/images/mhg-17/Zhaolan (Joe) Zhou.png
+    image_path: /assets/images/mhg-17/Zhaolan (Joe) Zhou.png
+    alt: "Zhaolan (Joe) Zhou.png"
+    title: "Zhaolan (Joe) Zhou.png"
