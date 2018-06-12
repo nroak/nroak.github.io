@@ -2,6 +2,7 @@
 
 title: "APCS- Career Symposium, 2018"
 excerpt: "Annual Postdoctoral Career Symposium notes."
+layout: single
 header:
   teaser: /assets/images/APCS/APCS- Kevin Folta.png
 sidebar:

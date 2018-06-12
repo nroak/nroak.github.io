@@ -2,6 +2,7 @@
 
 title: "MHG Seminar Series, 2017"
 excerpt: "Sketchnotes of selected talks in 2017."
+layout: single
 header:
   teaser: /assets/images/mhg-17/Tim Stearns.png
 sidebar:

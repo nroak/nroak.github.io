@@ -2,6 +2,7 @@
 
 title: "Other local talks/ seminars"
 excerpt: "Invited talks in the Texas Medical Center"
+layout: single
 header:
   teaser: /assets/images/local_invited/Caitlin Grzeskowiak defense.png
 sidebar:

@@ -2,6 +2,7 @@
 
 title: "MHG Seminar Series, 2016"
 excerpt: "Sketchnotes of selected talks in 2016."
+layout: single
 header:
   teaser: /assets/images/mhg-16/Carlos Bustamante.png
 sidebar:

@@ -2,6 +2,7 @@
 
 title: "MHG Seminar Series, 2018"
 excerpt: "Sketchnotes of selected talks in 2018."
+layout: single
 header:
   teaser: /assets/images/mhg-18/Mitch McVey.png
 sidebar:
