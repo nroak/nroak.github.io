@@ -1,3 +1,4 @@
+layout: single
 ---
 
 title: "Biology of Genomes, 2018"
