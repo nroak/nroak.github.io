@@ -1,8 +1,8 @@
-layout: single
 ---
 
 title: "Biology of Genomes, 2018"
 excerpt: "Sketchnotes for talks at the Biology of Genomes meeting from May 8-12, 2018 at Cold Spring Harbor Laboratories, NY."
+layout: single
 
 header:
   teaser: /assets/images/bog-18/David Page.JPG
