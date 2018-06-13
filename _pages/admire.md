@@ -14,8 +14,23 @@ toc: true
 ---
 
 ## Annotative Database of miRNA Elements
+### ADmiRE Highlights
+
+- Annotation wrapper for adding comprehensive miRNA annotations to a user supplied list of variants (tab-separated format)
+- Adds information for miRNA domains, gnomAD mean allele frequency percentiles, evolutionary conservation, etc.
+
+### GitHub:
+
+- [Download from GitHub](https://github.com/nroak/ADmiRE)
+
+### bioRxiv Preprint:
+
+- *Landscape of human miRNA variation and conservation using Annotative Database of miRNA Elements, ADmiRE.* [bioRxiv](https://www.biorxiv.org/content/early/2017/08/16/177170)
+
+
 {% include gallery id="layouts_gallery" caption="Description of miRNA variant annotations included in ADmiRE" %}
 
+### Description of annotations added to each base within miRNA region
 
 | Index | ADmiRE Annotations         | Description                                 |
 | ----- | -------------------------- | ------------------------------------------- |
@@ -46,19 +61,4 @@ toc: true
 | 25 | gnomAD_MAF | gnomAD AF for all alleles at the position |
 
 
-## ADmiRE Highlights
 
-- Annotation wrapper for adding comprehensive miRNA annotations to a user supplied list of variants (tab-separated format)
-- Adds information for miRNA domains, gnomAD mean allele frequency percentiles, evolutionary conservation, etc.
-
-
----
-
-### GitHub:
-
-- [Download from GitHub](https://github.com/nroak/ADmiRE)
-
-
-### bioRxiv Preprint:
-
-- *Landscape of human miRNA variation and conservation using Annotative Database of miRNA Elements, ADmiRE* [bioRxiv](https://www.biorxiv.org/content/early/2017/08/16/177170)
