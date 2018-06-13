@@ -3,6 +3,8 @@
 title: "BCM Special Lectures"
 excerpt: "Invited Lecutres at Baylor College of Medicine"
 layout: single
+comments: true
+
 header:
   teaser: /assets/images/bcm_special lectures/Harmit Malik- Keynote Graduate Symposium.png
 sidebar:
