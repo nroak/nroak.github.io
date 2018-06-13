@@ -6,14 +6,16 @@ author_profile: true
 title: "ADmiRE"
 excerpt: "Annotative Database of miRNA Elements"
 layouts_gallery:
-  - url: /assets/images/bog_admire.JPG
-    image_path: /assets/images/bog_admire.JPG
-    alt: "bog_admire"
+  - url: /assets/images/admire-annotations.png
+    image_path: /assets/images/admire-annotations.png
+    alt: "admire-annotations"
 
 toc: true
 ---
 
-### Annotative Database of miRNA Elements
+## Annotative Database of miRNA Elements
+{% include gallery id="layouts_gallery" caption="Description of miRNA variant annotations included in ADmiRE" %}
+
 | Index | ADmiRE Annotations         | Description                      |
 | -----| ------------ | ------------------------------------------- |
 | 1 | MIRNA | Precursor Name (miRBase) |
@@ -42,7 +44,7 @@ toc: true
 | 24 | gnomAD_Count | gnomAD AC for all alleles at the position |
 | 25 | gnomAD_MAF | gnomAD AF for all alleles at the position |
 
-## Research Interests
+## ADmiRE Highlights
 
 - Annotation wrapper for adding comprehensive miRNA annotations to a user supplied list of variants (tab-separated format)
 - Adds information for miRNA domains, gnomAD mean allele frequency percentiles, evolutionary conservation, etc.
