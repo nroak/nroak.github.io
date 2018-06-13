@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 permalink: /admire/
 author_profile: true
 
