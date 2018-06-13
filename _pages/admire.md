@@ -11,7 +11,7 @@ layouts_gallery:
     image_path: /assets/images/admire_annotations.png
     alt: "admire_annotations"
 
-toc: true
+toc: false
 ---
 
 ## Annotative Database of miRNA Elements
