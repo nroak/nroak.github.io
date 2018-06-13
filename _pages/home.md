@@ -14,7 +14,7 @@ header:
 
 ---
 
-I'm a final-stage Genetics PhD student at Baylor College of Medicine pursuing the discovery of genetic alterations that impact human traits and diseases.
+I'm a final-stage Genetics PhD student at Baylor College of Medicine pursuing the discovery of genetic alterations that impact human traits and diseases.More specifically, I have developed [bioinformatic approaches (ADmiRE)](/admire/) to understand the impact of microRNA single nucleotide variation in human population and disease datasets.
 
 
 To know more about my scientific career, feel free to take a look at my [CV](/cv/) or list of [publications](/publications/).

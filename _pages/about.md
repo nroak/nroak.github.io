@@ -18,15 +18,15 @@ layouts_gallery:
 toc: true
 ---
 
-I'm a Genetics PhD student at Baylor College of Medicine pursuing the discovery of genetic alterations that impact human traits and diseases. More specifically, I have developed [bioinformatic approaches](https://github.com/nroak/ADmiRE) to understand impact of microRNA single nucleotide variation in human population and disease datasets.
-
-{% include gallery id="layouts_gallery" caption="Picture summary of microRNA work presented at Biology of Genomes, 2018." %}
+I'm a Genetics PhD student at Baylor College of Medicine pursuing the discovery of genetic alterations that impact human traits and diseases. More specifically, I have developed [bioinformatic approaches (ADmiRE)](/admire/) to understand the impact of microRNA single nucleotide variation in human population and disease datasets.
 
 ## Research Interests
 
 - Genetics of childhood cancers and rare diseases.
 - Understanding the role of non-coding RNA (microRNA) sequence variation in human population and diseases.
 - Bioinformatic approaches to understand the link between genetic alterations and human diseases.
+ 
+{% include gallery id="layouts_gallery" caption="Picture summary of microRNA work presented at Biology of Genomes, 2018." %}
 
 
 ---
