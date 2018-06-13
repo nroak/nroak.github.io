@@ -16,8 +16,9 @@ toc: true
 ## Annotative Database of miRNA Elements
 {% include gallery id="layouts_gallery" caption="Description of miRNA variant annotations included in ADmiRE" %}
 
-| Index | ADmiRE Annotations         | Description                      |
-| -----| ------------ | ------------------------------------------- |
+
+| Index | ADmiRE Annotations         | Description                                 |
+| ----- | -------------------------- | ------------------------------------------- |
 | 1 | MIRNA | Precursor Name (miRBase) |
 | 2 | PRE_ID | Precursor ID (miRBase) |
 | 3 | Family_Name | miRNA Family Name (miRBase) |
@@ -43,6 +44,7 @@ toc: true
 | 23 | PhastCons_100way | Phastcons 100way- Vertebrate scores |
 | 24 | gnomAD_Count | gnomAD AC for all alleles at the position |
 | 25 | gnomAD_MAF | gnomAD AF for all alleles at the position |
+
 
 ## ADmiRE Highlights
 
