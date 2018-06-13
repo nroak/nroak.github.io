@@ -20,11 +20,11 @@ toc: false
 - Annotation wrapper for adding comprehensive miRNA annotations to a user supplied list of variants (tab-separated format)
 - Adds information for miRNA domains, gnomAD mean allele frequency percentiles, evolutionary conservation, etc.
 
-### GitHub:
+### GitHub
 
 - [Download from GitHub](https://github.com/nroak/ADmiRE)
 
-### bioRxiv Preprint:
+### bioRxiv Preprint
 
 - *Landscape of human miRNA variation and conservation using Annotative Database of miRNA Elements, ADmiRE.* [bioRxiv](https://www.biorxiv.org/content/early/2017/08/16/177170)
 
