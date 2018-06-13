@@ -6,9 +6,9 @@ author_profile: true
 title: "ADmiRE"
 excerpt: "Annotative Database of miRNA Elements"
 layouts_gallery:
-  - url: /assets/images/admire-annotations.png
-    image_path: /assets/images/admire-annotations.png
-    alt: "admire-annotations"
+  - url: /assets/images/admire_annotations.png
+    image_path: /assets/images/admire_annotations.png
+    alt: "admire_annotations"
 
 toc: true
 ---
