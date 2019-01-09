@@ -24,9 +24,9 @@ toc: false
 
 - [Download from GitHub](https://github.com/nroak/ADmiRE)
 
-### bioRxiv Preprint
+### Published in Human Mutation
 
-- *Landscape of human miRNA variation and conservation using Annotative Database of miRNA Elements, ADmiRE.* [bioRxiv](https://www.biorxiv.org/content/early/2017/08/16/177170)
+- *Framework for microRNA variant annotation and prioritization using human population and disease datasets* [Human Mutation](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.23668)
 
 
 {% include gallery id="layouts_gallery" caption="Description of miRNA variant annotations included in ADmiRE" %}
@@ -60,6 +60,3 @@ toc: false
 | 23 | PhastCons_100way | Phastcons 100way- Vertebrate scores |
 | 24 | gnomAD_Count | gnomAD AC for all alleles at the position |
 | 25 | gnomAD_MAF | gnomAD AF for all alleles at the position |
-
-
-

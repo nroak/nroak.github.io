@@ -6,15 +6,15 @@ share: true
 read_time: true
 font-size: 8px
 
-title: "Ninad Oak, Ph. D. _Expected 2018_"
+title: "Ninad Oak, Ph. D."
 sidebar:
   - title: "Ninad Oak"
     image: /assets/images/Profile2-small.jpg
-    text: "**Bioinformatician**<br /><br />**EDUCATION**<br />**PhD Student (Genetics)**<br />**Baylor College of Medicine**<br />_Expected 2018_<br />**Mentor:** Sharon E. Plon, M.D., Ph.D.<br /><br />**M.Sc.**<br />**University of Pune**<br />_2011_<br /><br /> **Life Science Entrepreneurship Certification**<br />**Rice University**<br />_2017_<br /><br /><br />**EXPERIENCE**<br /> **PhD Student- Plon Lab**<br />**Baylor College of Medicine**<br />_2012- Present_<br /><br />**Consultant**<br />**TMC Consulting Agency**<br />_2017_<br /><br />**Junior Research Fellow**<br />**ACTREC, India**<br />_2011-2012_"
+    text: "**Bioinformatics Research Scientist**<br />**St. Jude Children's Research Hospital**<br /><br />**EDUCATION**<br />**PhD**<br />**Baylor College of Medicine**<br /><br />**Mentor:** Sharon E. Plon, M.D., Ph.D.<br /><br />**M.Sc.**<br />**University of Pune**<br />_2011_<br /><br /> **Life Science Entrepreneurship Certification**<br />**Rice University**<br />_2017_<br /><br /><br />**EXPERIENCE**<br /> **PhD Student- Plon Lab**<br />**Baylor College of Medicine**<br />_2012- Present_<br /><br />**Consultant**<br />**TMC Consulting Agency**<br />_2017_<br /><br />**Junior Research Fellow**<br />**ACTREC, India**<br />_2011-2012_"
 
 ---
 ## Professional Statement
-_As a PhD student, I have applied bioinformatic and functional biology approaches to identify causal DNA sequence variation in rare human diseases. Alongside, I have also undertaken many leadership positions and worked with local start-up companies that has helped me develop a transferable skill-set. My goal is to gain a role that allows me to further my genetics knowledge and team-work skills in the exciting genomics industry or academic settings._
+_I have applied bioinformatic and functional biology approaches to identify causal DNA sequence variation in rare human diseases. Alongside, I have also undertaken many leadership positions and worked with local start-up companies that has helped me develop a transferable skill-set. My goal is to gain a role that allows me to further my genetics knowledge and team-work skills in the exciting genomics industry or academic settings._
 
 ### Research Interest
 - Bioinformatic approaches to understand the link between genetic alterations and human diseases.
@@ -30,9 +30,9 @@ _As a PhD student, I have applied bioinformatic and functional biology approache
 
 ## Work Experience
 
-### PhD Student/ Graduate Research Assistant – Plon laboratory 
+### PhD Student/ Graduate Research Assistant – Plon laboratory
 **Baylor College of Medicine, Houston, TX** <br />
-_2012- Present_<br />
+_2012- 2018_<br />
 Designed annotation platform and completed the analysis of miRNA sequence variation from human population sequencing datasets (gnomAD, ExAC, 1000G, etc.) and cancer datasets (TCGA PanCancerAtlas, St. Jude’s PCGP, etc.).
 
 ### Consultant, TMC Consulting Agency, Houston, TX
@@ -55,7 +55,7 @@ Experience of leading many cross-functional, inter-disciplinary teams in academi
 
 | Year             | Position                                              |
 | ---------------- | ----------------------------------------------------- |
-| _2016- Present_  | **Chair and Student Ambassador**, Alumni Student Ambassador Board, Baylor College of Medicine|
+| _2016- 2018_  | **Chair and Student Ambassador**, Alumni Student Ambassador Board, Baylor College of Medicine|
 | _2014- 2015_ | **President**, Indian Students and Scholars Association (ISSA), Baylor College of Medicine |
 | _2013- 2015_ | **Genetics Representative**, Graduate Student Council, Baylor College of Medicine|
 | _2011_ | **Organizing Committee**, 1st Global Cancer Genomics Consortium |
@@ -77,7 +77,3 @@ For the complete list of published and unpublished papers, please visit the [Pub
 ### Scientific coverage:
 
 - [PLOS ECR blog coverage](http://blogs.plos.org/thestudentblog/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/) - A blog by Caitlin Grzeskowiak highlighting my sketchnote style of note-taking.
-
-
-
-

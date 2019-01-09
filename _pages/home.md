@@ -15,7 +15,7 @@ header:
 
 ---
 
-I'm a final-stage Genetics PhD student at Baylor College of Medicine pursuing the discovery of genetic alterations that impact human traits and diseases.More specifically, I have developed [bioinformatic approaches (ADmiRE)](/admire/) to understand the impact of microRNA single nucleotide variation in human population and disease datasets.
+Bioinformatics Research Scientist at St. Jude Children's Research Hospital. 
 
 
 To know more about my scientific career, feel free to take a look at my [CV](/cv/) or list of [publications](/publications/).
@@ -40,4 +40,3 @@ I look forward to adding more content and maybe a few blogs to this website in c
 ### Scientific coverage:
 
 - [PLOS ECR blog coverage](http://blogs.plos.org/thestudentblog/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/) - A blog by Caitlin Grzeskowiak highlighting my sketchnote style of note-taking.
-

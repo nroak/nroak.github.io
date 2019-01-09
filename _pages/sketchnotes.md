@@ -11,7 +11,7 @@ author_profile: true
 
 ### Overview
 
-Over my Ph.D. years, I attended numerous scientific talks at the university and at national conferences, meetings.
+As a student of science, I attend numerous scientific talks at the university and at national conferences.
 In the process, I developed a note-taking habit using my tablet. I live-sketch the talk's scientific findings, figures/ graphs where possible.
 
 ### Important meetings include
