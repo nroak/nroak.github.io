@@ -10,7 +10,7 @@ title: "Ninad Oak, Ph. D."
 sidebar:
   - title: "Ninad Oak"
     image: /assets/images/Profile2-small.jpg
-    text: "**Bioinformatics Research Scientist**<br />**St. Jude Children's Research Hospital**<br /><br />**EDUCATION**<br />**PhD (Plon Lab)**<br />**Baylor College of Medicine**<br />_2018_<br /><br />**M.Sc.**<br />**University of Pune**<br />_2011_<br /><br /> **Life Science Entrepreneurship Certification**<br />**Rice University**<br />_2017_<br /><br /><br />**EXPERIENCE**<br />**Consultant**<br />**TMC Consulting Agency**<br />_2017_<br /><br />**Junior Research Fellow**<br />**ACTREC, India**<br />_2011-2012_"
+    text: "**Bioinformatics Research Scientist**<br />**St. Jude Children's Research Hospital**<br />_2019-Present_<br /><br /><br />**EDUCATION**<br />**PhD (Plon Lab)**<br />**Baylor College of Medicine**<br />_2018_<br /><br />**M.Sc.**<br />**University of Pune**<br />_2011_<br /><br /> **Life Science Entrepreneurship Certification**<br />**Rice University**<br />_2017_<br /><br /><br />**EXPERIENCE**<br />**Consultant**<br />**TMC Consulting Agency**<br />_2017_<br /><br />**Junior Research Fellow**<br />**ACTREC, India**<br />_2011-2012_"
 
 ---
 ## Professional Statement
