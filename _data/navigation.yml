@@ -1,12 +1,6 @@
 # main links
 main:
-  - title: "ADmiRE"
-    url: /admire/
   - title: "Sketchnotes"
     url: /sketchnotes/
   - title: "CV"
     url: /cv/
-  - title: "Publications"
-    url: /publications/
-  - title: "About"
-    url: /about/
