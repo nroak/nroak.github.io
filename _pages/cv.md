@@ -10,11 +10,11 @@ title: "Ninad Oak, Ph. D."
 sidebar:
   - title: "Ninad Oak"
     image: /assets/images/Profile2-small.jpg
-    text: "**Bioinformatics Research Scientist**<br />**St. Jude Children's Research Hospital**<br /><br />**EDUCATION**<br />**PhD**<br />**Baylor College of Medicine**<br /><br />**Mentor:** Sharon E. Plon, M.D., Ph.D.<br /><br />**M.Sc.**<br />**University of Pune**<br />_2011_<br /><br /> **Life Science Entrepreneurship Certification**<br />**Rice University**<br />_2017_<br /><br /><br />**EXPERIENCE**<br /> **PhD Student- Plon Lab**<br />**Baylor College of Medicine**<br />_2012- Present_<br /><br />**Consultant**<br />**TMC Consulting Agency**<br />_2017_<br /><br />**Junior Research Fellow**<br />**ACTREC, India**<br />_2011-2012_"
+    text: "**Bioinformatics Research Scientist**<br />**St. Jude Children's Research Hospital**<br /><br />**EDUCATION**<br />**PhD (Plon Lab)**<br />**Baylor College of Medicine**<br />_2017_<br /><br />**M.Sc.**<br />**University of Pune**<br />_2011_<br /><br /> **Life Science Entrepreneurship Certification**<br />**Rice University**<br />_2017_<br /><br /><br />**EXPERIENCE**<br />**Consultant**<br />**TMC Consulting Agency**<br />_2017_<br /><br />**Junior Research Fellow**<br />**ACTREC, India**<br />_2011-2012_"
 
 ---
 ## Professional Statement
-_I have applied bioinformatic and functional biology approaches to identify causal DNA sequence variation in rare human diseases. Alongside, I have also undertaken many leadership positions and worked with local start-up companies that has helped me develop a transferable skill-set. My goal is to gain a role that allows me to further my genetics knowledge and team-work skills in the exciting genomics industry or academic settings._
+_I am a Bioinformatics Research Scientist studying germline cancer predisposition in childhood cancers._
 
 ### Research Interest
 - Bioinformatic approaches to understand the link between genetic alterations and human diseases.
