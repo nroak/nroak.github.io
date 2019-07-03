@@ -1,9 +1,9 @@
 ---
 layout: single
-classes: wide
+
 permalink: /
 author_profile: true
-
+toc: true
 
 title: "Ninad Oak, Ph. D."
 excerpt: "Genetics, Sketchnotes, and more..."
@@ -12,8 +12,8 @@ excerpt: "Genetics, Sketchnotes, and more..."
 ---
 
 After completing my PhD in Genetics at Baylor College of Medicine, I joined St. Jude Children's Research Hospital as a Bioinformatics Research Scientist.
-The focus of my current work is to discover genetic basis of childhood cancer predisposition.
-During my PhD, I developed [bioinformatic approaches (ADmiRE)](https://github.com/nroak/admire) to understand the impact of microRNA single nucleotide variation in human population and disease datasets.
+The focus of my current work is to identify the genetic basis of childhood cancer predisposition.
+During my PhD, I developed a bioinformatic tool, [ADmiRE](https://github.com/nroak/admire), to understand the impact of microRNA single nucleotide variation in human population and disease datasets.
 
 ## Research Interests
 

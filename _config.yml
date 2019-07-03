@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ninad Oak"
+title                    : "Genetics, sketchnotes, and more..."
 title_separator          : "-"
 name                     : "Ninad Oak"
 description              : "Genetics, sketchnotes, and more..."
@@ -129,6 +129,10 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  links:
+    - label: "Google Scholar"
+      icon: "/assets/images/google-scholar-icon-1.png"
+      url: "https://scholar.google.com/citations?user=oE-Da48AAAAJ&hl=en"
 
 # Skethnotes
 collections:
