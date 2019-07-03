@@ -8,7 +8,6 @@ toc: true
 title: "Ninad Oak, Ph. D."
 excerpt: "Genetics, Sketchnotes, and more..."
 
-
 ---
 
 After completing my PhD in Genetics at Baylor College of Medicine, I joined St. Jude Children's Research Hospital as a Bioinformatics Research Scientist.
@@ -22,7 +21,7 @@ During my PhD, I developed a bioinformatic tool, [ADmiRE](https://github.com/nro
 
 In addition to doing science, I love to live-sketch scientific talks. You can find all of my picture summaries [here](sketchnotes).
 
----
+
 ## Publications
 
 - [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/sites/myncbi/1jQDtZLm9on5T/bibliography/40122621/public/?sort=date&direction=ascending)
@@ -36,25 +35,13 @@ An updated list of published and unpublished papers is listed in reverse chronol
 - Chandrani P, Upadhyay P, Iyer P, Tanna M, Shetty M, Raghuram GV, **Oak N**, Singh A,  Chaubal R, Ramteke M, Gupta S, Dutt A. Integrated genomics approach to identify biologically relevant alterations in fewer samples. BMC genomics. 2015; 16:936. [PMID: 26572163](https://www.ncbi.nlm.nih.gov/pubmed/26572163), [PMCID: PMC4647579](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4647579/)
 - **Oak N**, Jayaraman VK. Identification of ligand binding pockets on nuclear receptors by machine learning methods. Protein and peptide letters. 2014; 21(8):808-14. [PMID: 23855664](https://www.ncbi.nlm.nih.gov/pubmed/23855664)
 
----
-
-## ADmiRE: Annotative Database of miRNA Elements
-### [ADmiRE](https://github.com/nroak/ADmiRE) Highlights
-
+### Highlights of PhD work [ADmiRE](https://github.com/nroak/ADmiRE): Annotative Database of miRNA Elements
 - Annotation wrapper for adding comprehensive miRNA annotations to a user supplied list of variants (tab-separated format)
 - Adds information for miRNA domains, gnomAD mean allele frequency percentiles, evolutionary conservation, etc.
+- Published in [Human Mutation](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.23668)
 
-### Published in Human Mutation
-
-- *Framework for microRNA variant annotation and prioritization using human population and disease datasets* [Human Mutation](https://onlinelibrary.wiley.com/doi/full/10.1002/humu.23668)
-
----
-
-## Scientific coverage:
-
+## Scientific Coverage
 - [PLOS ECR blog coverage](http://blogs.plos.org/thestudentblog/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/) - A blog by Caitlin Grzeskowiak highlighting my sketchnote style of note-taking.
-
----
 
 ### My Insights on TeamLaunch workshop at Baylor College of Medicine
 {% include video id="273821151" provider="vimeo" %}
