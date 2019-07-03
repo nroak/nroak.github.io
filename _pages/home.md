@@ -7,10 +7,6 @@ author_profile: true
 
 title: "Ninad Oak, Ph. D."
 excerpt: "Genetics, Sketchnotes, and more..."
-sidebar:
-  - title: "Ninad Oak"
-    image: /assets/images/Profile2-small.jpg
-
 
 
 ---
@@ -42,16 +38,11 @@ An updated list of published and unpublished papers is listed in reverse chronol
 
 ---
 
-
 ## ADmiRE: Annotative Database of miRNA Elements
-### ADmiRE Highlights
+### [ADmiRE](https://github.com/nroak/ADmiRE) Highlights
 
 - Annotation wrapper for adding comprehensive miRNA annotations to a user supplied list of variants (tab-separated format)
 - Adds information for miRNA domains, gnomAD mean allele frequency percentiles, evolutionary conservation, etc.
-
-### GitHub
-
-- [Download from GitHub](https://github.com/nroak/ADmiRE)
 
 ### Published in Human Mutation
 
@@ -62,3 +53,8 @@ An updated list of published and unpublished papers is listed in reverse chronol
 ## Scientific coverage:
 
 - [PLOS ECR blog coverage](http://blogs.plos.org/thestudentblog/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/) - A blog by Caitlin Grzeskowiak highlighting my sketchnote style of note-taking.
+
+---
+
+### My Insights on TeamLaunch workshop at Baylor College of Medicine
+{% include video id="273821151" provider="vimeo" %}
