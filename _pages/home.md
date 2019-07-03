@@ -4,8 +4,12 @@ classes: wide
 permalink: /
 author_profile: true
 
-title: "Ninad Oak"
+
+title: "Ninad Oak, Ph. D."
 excerpt: "Genetics, Sketchnotes, and more..."
+sidebar:
+  - title: "Ninad Oak"
+    image: /assets/images/Profile2-small.jpg
 
 
 
