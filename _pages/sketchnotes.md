@@ -15,6 +15,7 @@ As a student of science, I attend numerous scientific talks at the university an
 In the process, I developed a note-taking habit using my tablet. I live-sketch the talk's scientific findings, figures/ graphs where possible.
 
 ### Important meetings include
+- American Society of Human Genetics, 2019
 - Biology of Genomes, 2018
 - Molecular and Human Genetics Seminar Series, 2016-2018
 - Annual Postdoctoral Career Symposium, Houston, TX
